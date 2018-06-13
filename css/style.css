@@ -1,0 +1,105 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 375px
+}
+.row0 {
+  position: relative;
+  display: flex;
+  margin-left: 8px;
+  margin-top: 6px;
+  width: 351px;
+  height: 13px
+}
+.style4 {
+  color: #0f5182;
+  font-family: museo,serif;
+  font-size: 1.0625em;
+  margin-left: 0;
+  height: 100%;
+  align-self: stretch;
+  flex-shrink: 0
+}
+.style7 {
+  color: #fff;
+  font-family: Cairo,serif;
+  font-size: .875em;
+  position: relative;
+  margin-left: 272px;
+  margin-top: 8px;
+  height: 12px;
+  flex-shrink: 0
+}
+.style1 {
+  background-image: url(https://designresources.assets.yotako.io/40599ujjicueziw.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 0;
+  margin-top: 5px;
+  width: 375px;
+  height: 196px;
+  flex-direction: column
+}
+.style8 {
+  color: #feffff;
+  font-family: Cairo,serif;
+  font-size: .625em;
+  margin-left: 333px;
+  margin-top: 3px;
+  height: 8px
+}
+.style2 {
+  background-image: url(https://designresources.assets.yotako.io/40599ujjicuezsm.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: center;
+  background-position-y: center;
+  margin-left: 59px;
+  margin-top: 13px;
+  width: 269px;
+  height: 155px;
+  align-items: center
+}
+.style2,
+.style3,
+.style5 {
+  display: flex;
+  flex-direction: column
+}
+.style3 {
+  background-image: url(https://designresources.assets.yotako.io/40599ujjicuezxs.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: center;
+  background-position-y: center;
+  margin-top: 11px;
+  justify-content: center;
+  width: 202px;
+  height: 127px
+}
+.style5 {
+  border-left: 1px dotted #fff;
+  border-right: 1px dotted #fff;
+  border-top: 1px dotted #fff;
+  border-bottom: 1px dotted #fff;
+  border-top-left-radius: 54px;
+  border-top-right-radius: 54px;
+  border-bottom-left-radius: 54px;
+  border-bottom-right-radius: 54px;
+  margin-left: 42px;
+  width: 106px;
+  height: 106px;
+  align-items: center
+}
+.style6 {
+  color: #fff;
+  text-align: center;
+  font-family: museo,serif;
+  font-size: 1.1875em;
+  line-height: 30px;
+  margin-top: 27px;
+  width: 91px
+}
